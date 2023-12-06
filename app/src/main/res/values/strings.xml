@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">u2a6_Sanchez</string>
+    <string name="mnOp1">Opción 1</string>
+    <string name="mnOp2">Opción 2</string>
+    <string name="mnOp3">Opcón 3</string>
+    <string name="mnOp4">Opción 4</string>
+    <string name="mnPregunta">Do you practice any technique to face exams?</string>
+    <string name="opAceptar">Aceptar</string>
+    <string name="opCancelar">Cancelar</string>
+    <string-array name="listaOpciones">
+        <item>Yes.</item>
+        <item>No and I do not want to.</item>
+        <item>No but I would like to.</item>
+        <item>I have not heard about any technique before.</item>
+    </string-array>
+    <string name="opAjustes1">Change username</string>
+    <string name="opAjustes2">Advices</string>
+    <string name="opAjustes3">Information</string>
+    <string name="opContext1">Show username</string>
+    <string name="opContext2">Show current date</string>
+    <string name="opContext3">Show dev info</string>
+    <string name="context1Info">Current username: </string>
+    <string name="context1InfoNoUser">Username has not been introduced</string>
+    <string name="context2Info">Current date:</string>
+    <string name="context3Info">Made with &#60;3 by Lorena; a software development student</string>
+    <string name="startText">Go on</string>
+    <string name="title1">App</string>
+    <string name="title2">Mental</string>
+    <string name="title3">.</string>
+    <string name="mainText1">We help you analyze &amp; understand how to face</string>
+    <string name="mainText2">anxiety</string>
+</resources>

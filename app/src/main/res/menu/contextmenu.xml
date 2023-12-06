@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnContext1"
+        android:title="@string/opContext1" >
+    </item>
+
+    <item
+        android:id="@+id/mnContext2"
+        android:title="@string/opContext2" />
+    <item
+        android:id="@+id/mnContext3"
+        android:title="@string/opContext3" />
+
+</menu>
